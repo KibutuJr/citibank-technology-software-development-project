@@ -26,7 +26,7 @@ As part of the simulation, a **state diagram** was created using the Unified Mod
 - Decision points for credit checks and risk assessment.  
 - Integration points for internal monitoring systems.  
 
-You can access the **state diagram PDF** here: [Loan Management State Diagram (PDF)](app/resources/LoanManagementStateDiagram.pdf)
+You can access the **state diagram PDF** here: [Loan Management State Diagram (PDF)](app/resources/State20%Diagram.pdf)
 
 **Real-world impact:**  
 - Provides clear visualization for stakeholders.  
