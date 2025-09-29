@@ -155,6 +155,3 @@ This project demonstrates the intersection of **software development, financial 
 It also showcases **hands-on experience with Java, JavaFX, API integration, UML, and machine learning research**, providing a strong foundation for future roles in financial software development.
 
 ---
-
-Do you want me to do that next?
-```
