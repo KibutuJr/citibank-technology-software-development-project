@@ -83,16 +83,6 @@ Through this project, several technical and professional skills were developed:
 
 ---
 
-## **Learning Experience & Interview Insights**
-
-Participating in this simulation provided valuable insights into working on a **Technology Software Development team at Citi**:
-
-> "I recently participated in one of Citi's job projects, and it was incredibly useful to understand what it might be like to participate on a Technology Software Development team at Citi.  
-> I worked on several tasks to improve Citi's loan management system and stock market risk reporting. I practiced creating state diagrams to show loan management processes and researched machine learning solutions to assess credit risk. I was also able to apply my Java skills to build an internal tool to visualize stock market risk in a real-world context.  
-> Doing this program confirmed that I really enjoy applying my technical skills to improve internal processes. I'm excited to apply these skills on a Technology Software Development team at a company like Citi."
-
----
-
 ## **How This Project Helps Businesses Like Banks**
 
 1. **Streamlines internal processes:** Visualizations and state diagrams make workflows more transparent.  
