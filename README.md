@@ -18,6 +18,8 @@ Each component reflects tasks that real-world banks and financial institutions p
 
 ## **1. Loan Management System State Diagram**
 
+![Citi State Diagram](Citi%20State%20Diagram.png)
+
 As part of the simulation, a **state diagram** was created using the Unified Modeling Language (UML) to visually represent the loan management workflow. The diagram captures:
 
 - The process of receiving, reviewing, and approving loans.  
